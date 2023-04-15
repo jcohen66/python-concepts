@@ -28,7 +28,6 @@ schedule.every().day.at('15:15:40').do(task)
 schedule.every().monday.do(task)
 schedule.every().monday.at('15:15').do(task)
 
-
         
 while True:
     schedule.run_pending()
