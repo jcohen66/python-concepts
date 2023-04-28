@@ -11,6 +11,8 @@ load_dotenv('.env')
 username: str = os.getenv('USERNAME')
 password: str = os.getenv('PASSWORD')
 
+print(username)
+
 
 # server = smtplib.SMTP('smtp.gmail.com', 25)
 server = imap.IMAPClient('imap.gmail.com', ssl=True)
