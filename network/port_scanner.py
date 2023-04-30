@@ -25,10 +25,10 @@ def worker():
             print(f'Port {port} is open.')
             open_ports.append(port)
         
-port_list = range(1, 1024)
+port_list = range(1, 10024)
 fill_queue(port_list)
 
-number_of_workers = 100
+number_of_workers = 500
 thread_list = []
 for _ in range(number_of_workers):
     thread = threading.Thread(target=worker)
