@@ -1,0 +1,705 @@
+{
+    "NextMarker": "WHITELABELCOLO393-394474-ASN",
+    "IPSets": [
+        {
+            "Name": "24SHELLS-55081-IPV4-ASN",
+            "Id": "ada41c48-1061-4b93-8466-cbc24870be06",
+            "Description": "",
+            "LockToken": "fb0060b3-2079-4b35-ba5c-99879fe501b2",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/24SHELLS-55081-IPV4-ASN/ada41c48-1061-4b93-8466-cbc24870be06"
+        },
+        {
+            "Name": "A1-Hrvatska-doo-29485-ASN",
+            "Id": "ee7e8bbe-7fd9-4ae7-9d79-ff279d5b5173",
+            "Description": "",
+            "LockToken": "0315416c-cfe3-410c-988c-c43449b5c5a6",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/A1-Hrvatska-doo-29485-ASN/ee7e8bbe-7fd9-4ae7-9d79-ff279d5b5173"
+        },
+        {
+            "Name": "AS-SPRIOUS-64267-ASN",
+            "Id": "e98bf0d5-a9a0-43e4-a651-19fb36ca7bb6",
+            "Description": "",
+            "LockToken": "9ed60ee5-8c9f-4eec-8979-480b3cc310aa",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/AS-SPRIOUS-64267-ASN/e98bf0d5-a9a0-43e4-a651-19fb36ca7bb6"
+        },
+        {
+            "Name": "AS11325-ASN",
+            "Id": "93b6c9b6-ee1b-418b-ab23-510047dd388b",
+            "Description": "",
+            "LockToken": "0c7f5879-6dc1-4f4b-8126-84ad503fa026",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/AS11325-ASN/93b6c9b6-ee1b-418b-ab23-510047dd388b"
+        },
+        {
+            "Name": "AWS-east-2-Blacklist",
+            "Id": "fd455f7a-f18c-491e-b3eb-e40c63c7220c",
+            "Description": "",
+            "LockToken": "93385ce4-a739-410d-8200-adc5bc777ef8",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/AWS-east-2-Blacklist/fd455f7a-f18c-491e-b3eb-e40c63c7220c"
+        },
+        {
+            "Name": "AWS-us-west-ASN",
+            "Id": "23b1603d-da07-41eb-9a59-63b8d74fd312",
+            "Description": "",
+            "LockToken": "569b55df-fd18-4939-9a26-c245fceaa3b4",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/AWS-us-west-ASN/23b1603d-da07-41eb-9a59-63b8d74fd312"
+        },
+        {
+            "Name": "Active-Whitelist",
+            "Id": "b451dd4b-afb3-49cb-ab43-43dfe5afaf06",
+            "Description": "",
+            "LockToken": "d0ac170d-4b68-4cc2-8b78-8a1f0c6cd6fe",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Active-Whitelist/b451dd4b-afb3-49cb-ab43-43dfe5afaf06"
+        },
+        {
+            "Name": "Block-IPv4-Production",
+            "Id": "2c6e760b-1b5e-4e16-afa1-04758857cb3d",
+            "Description": "Block-IPv4-Production",
+            "LockToken": "21992dbb-e5af-4f7f-8a14-f6c3cfc7abac",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Block-IPv4-Production/2c6e760b-1b5e-4e16-afa1-04758857cb3d"
+        },
+        {
+            "Name": "Blocked-CIDRs",
+            "Id": "4b47372a-8aac-46dd-bbdb-392169da3140",
+            "Description": "IP Addresses causing issues and will be blocked",
+            "LockToken": "9e3316c8-b92c-463b-9855-e237e48b94f7",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Blocked-CIDRs/4b47372a-8aac-46dd-bbdb-392169da3140"
+        },
+        {
+            "Name": "Blocked-IP6",
+            "Id": "68e1cebe-8281-42df-b2b5-ee93b9d8f26e",
+            "Description": "",
+            "LockToken": "afe0dddb-d267-4fc7-9c37-4914939afcc3",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Blocked-IP6/68e1cebe-8281-42df-b2b5-ee93b9d8f26e"
+        },
+        {
+            "Name": "Blue-Ocean-Whitelist",
+            "Id": "ec173f37-8643-47f2-a611-11f6c100ccc1",
+            "Description": "",
+            "LockToken": "219b4b4c-2c41-4098-afff-271f57e94892",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Blue-Ocean-Whitelist/ec173f37-8643-47f2-a611-11f6c100ccc1"
+        },
+        {
+            "Name": "Bunny-Technologies-ASN",
+            "Id": "b90378d8-1bc8-40d3-8c2b-0558e5d2aa0a",
+            "Description": "",
+            "LockToken": "ae4a82b5-b428-4bc8-94f4-a5368f57c06a",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Bunny-Technologies-ASN/b90378d8-1bc8-40d3-8c2b-0558e5d2aa0a"
+        },
+        {
+            "Name": "COTAS-LTDA",
+            "Id": "1d7b4fef-3d1a-481d-8f03-f50ebc286e7a",
+            "Description": "",
+            "LockToken": "99631ae5-b085-4f21-a083-d2524fa253b9",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/COTAS-LTDA/1d7b4fef-3d1a-481d-8f03-f50ebc286e7a"
+        },
+        {
+            "Name": "CS-Customer-Whitelist",
+            "Id": "a309f3f3-e47f-40bb-8f58-417ca862decc",
+            "Description": "Customer IPs that were unblocked",
+            "LockToken": "79c98c28-1474-4b8a-8bec-ab4764c94bc6",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/CS-Customer-Whitelist/a309f3f3-e47f-40bb-8f58-417ca862decc"
+        },
+        {
+            "Name": "CableColor-AS27884-ASN",
+            "Id": "dc8ef05b-2f6f-4fdb-befe-2ad16d9f3ffc",
+            "Description": "",
+            "LockToken": "7f5c3787-b464-41f1-8a40-2ca93d4b0c13",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/CableColor-AS27884-ASN/dc8ef05b-2f6f-4fdb-befe-2ad16d9f3ffc"
+        },
+        {
+            "Name": "Cato-Networks-ASN",
+            "Id": "8182ea5c-315a-4fb9-b87d-a74f8c3e9eb0",
+            "Description": "",
+            "LockToken": "4e51e4a7-f429-44fa-8f0a-fb89e092273e",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Cato-Networks-ASN/8182ea5c-315a-4fb9-b87d-a74f8c3e9eb0"
+        },
+        {
+            "Name": "Central-American-Baddies",
+            "Id": "a67acff6-c348-4aa6-a812-0bf147ede4e4",
+            "Description": "",
+            "LockToken": "5a10a36c-9b1c-490f-a9df-b6bb5c8c29ab",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Central-American-Baddies/a67acff6-c348-4aa6-a812-0bf147ede4e4"
+        },
+        {
+            "Name": "Chang-Way-57523-ASN",
+            "Id": "223f6d63-b6fd-4d13-ba98-2068e4861588",
+            "Description": "",
+            "LockToken": "ca506b8c-6b52-4bb2-8ddc-b0e320fb4c04",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Chang-Way-57523-ASN/223f6d63-b6fd-4d13-ba98-2068e4861588"
+        },
+        {
+            "Name": "Choopa-20473-IP4-ASN",
+            "Id": "8f2f0d96-00f6-4ae9-9f67-45639abbfe4f",
+            "Description": "",
+            "LockToken": "a3b2f581-2316-4707-9bae-3159a066ef8b",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Choopa-20473-IP4-ASN/8f2f0d96-00f6-4ae9-9f67-45639abbfe4f"
+        },
+        {
+            "Name": "Choopa-20473-IP46-ASN",
+            "Id": "eded17b5-0948-4cb6-b7a0-28b988dc0be0",
+            "Description": "",
+            "LockToken": "722c82dc-40ce-4eaf-84b3-310f85d03224",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Choopa-20473-IP46-ASN/eded17b5-0948-4cb6-b7a0-28b988dc0be0"
+        },
+        {
+            "Name": "Cloud-South-13886-ASN",
+            "Id": "45b439b6-6621-43c5-99de-3896b1f7010e",
+            "Description": "",
+            "LockToken": "4d8181a1-4ddd-4575-94cc-7bb7d1878201",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Cloud-South-13886-ASN/45b439b6-6621-43c5-99de-3896b1f7010e"
+        },
+        {
+            "Name": "Clouvider-Ltd-ASN",
+            "Id": "8d9a4845-fd11-4df7-ad51-a7d097827981",
+            "Description": "",
+            "LockToken": "97d196f6-f089-4bbd-96fa-2dde3b9b0bd8",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Clouvider-Ltd-ASN/8d9a4845-fd11-4df7-ad51-a7d097827981"
+        },
+        {
+            "Name": "Clubspark-Whitelist",
+            "Id": "82fe5220-bfc2-4671-9a50-b047f3b82457",
+            "Description": "",
+            "LockToken": "1b76d861-2205-47cf-8332-c662ced096f6",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Clubspark-Whitelist/82fe5220-bfc2-4671-9a50-b047f3b82457"
+        },
+        {
+            "Name": "Cogent-174-IP4-ASN",
+            "Id": "479ea7bb-8dc6-4ce0-82d0-ece63de3bf77",
+            "Description": "",
+            "LockToken": "1a4d219b-04da-49ad-9979-9e2355b3e334",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Cogent-174-IP4-ASN/479ea7bb-8dc6-4ce0-82d0-ece63de3bf77"
+        },
+        {
+            "Name": "Combahton-GmbH-30823-IP4-ASN",
+            "Id": "0a20c09e-4387-4319-a967-6892284d05a5",
+            "Description": "",
+            "LockToken": "ad901621-7c93-42c1-81fa-9cc973639ceb",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Combahton-GmbH-30823-IP4-ASN/0a20c09e-4387-4319-a967-6892284d05a5"
+        },
+        {
+            "Name": "Contabo-51167-ASN",
+            "Id": "0c8c7546-6468-4b06-b2a3-05641887e7fd",
+            "Description": "",
+            "LockToken": "eb468829-f664-4920-9e89-e5bf3abe29ee",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Contabo-51167-ASN/0c8c7546-6468-4b06-b2a3-05641887e7fd"
+        },
+        {
+            "Name": "Corporacion-Dana-SA-52393-IPV4-ASN",
+            "Id": "17ac0418-547c-489d-a99f-c6371f1d851a",
+            "Description": "",
+            "LockToken": "5753e0e5-ea48-4898-afc3-fbf21ece7c08",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Corporacion-Dana-SA-52393-IPV4-ASN/17ac0418-547c-489d-a99f-c6371f1d851a"
+        },
+        {
+            "Name": "Corporacion-Laceibanetsociety-263740-ASN",
+            "Id": "2add76d5-6a28-4dd8-a5f8-c6b17a0a2aab",
+            "Description": "",
+            "LockToken": "2b1c1667-8011-4d95-93c1-cc92951f388a",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Corporacion-Laceibanetsociety-263740-ASN/2add76d5-6a28-4dd8-a5f8-c6b17a0a2aab"
+        },
+        {
+            "Name": "Customer-Whitelist",
+            "Id": "1c26abda-3768-45c6-99af-be2a3b986f4a",
+            "Description": "Customers blocked by firewall that we deem ok",
+            "LockToken": "72e2d494-7854-4c62-b40c-d8b8768dd06f",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Customer-Whitelist/1c26abda-3768-45c6-99af-be2a3b986f4a"
+        },
+        {
+            "Name": "DELIS-211252-ASN",
+            "Id": "a30bb99c-2446-4b5e-a917-e52ba750817b",
+            "Description": "",
+            "LockToken": "1c1fb922-6653-42bb-a5d3-f01221238086",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/DELIS-211252-ASN/a30bb99c-2446-4b5e-a917-e52ba750817b"
+        },
+        {
+            "Name": "Datacamp-Limited-60068-IPV4-ASN",
+            "Id": "b12b5987-6a33-4c51-af34-5ec6904cd528",
+            "Description": "",
+            "LockToken": "04fbb111-a3af-4f56-8f44-17b4146914b9",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Datacamp-Limited-60068-IPV4-ASN/b12b5987-6a33-4c51-af34-5ec6904cd528"
+        },
+        {
+            "Name": "DediPath-blacklist",
+            "Id": "ed642005-d4b8-4855-9a62-47d3ae498b59",
+            "Description": "",
+            "LockToken": "1f0c9abc-44c5-4454-8e8e-802d6ecfd967",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/DediPath-blacklist/ed642005-d4b8-4855-9a62-47d3ae498b59"
+        },
+        {
+            "Name": "Digital-Ocean-14061-IP4-ASN",
+            "Id": "02afbdd8-1daa-4b6d-9058-13c7eeeb2c2f",
+            "Description": "",
+            "LockToken": "cb0628fa-494d-4d39-bbc8-dda0fd5b2e87",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Digital-Ocean-14061-IP4-ASN/02afbdd8-1daa-4b6d-9058-13c7eeeb2c2f"
+        },
+        {
+            "Name": "EGI-Hosting-18779-IP4-ASN",
+            "Id": "7129be81-0502-431c-a966-fb6eb95d7d0a",
+            "Description": "",
+            "LockToken": "1aa2ed99-685b-49d6-b438-ffea35037fd0",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/EGI-Hosting-18779-IP4-ASN/7129be81-0502-431c-a966-fb6eb95d7d0a"
+        },
+        {
+            "Name": "ELITEWORK-397731-ASN",
+            "Id": "393b2941-1c9c-433a-bb0a-aae162d1de4c",
+            "Description": "",
+            "LockToken": "d82f0b8a-9a97-43b7-bd4a-944257b2038c",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/ELITEWORK-397731-ASN/393b2941-1c9c-433a-bb0a-aae162d1de4c"
+        },
+        {
+            "Name": "EONIX-62904-IPV4-ASN",
+            "Id": "a9929ce1-32e0-4482-9d78-263a97f86539",
+            "Description": "",
+            "LockToken": "f2d61efc-e927-4254-8816-cd1170d98565",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/EONIX-62904-IPV4-ASN/a9929ce1-32e0-4482-9d78-263a97f86539"
+        },
+        {
+            "Name": "EPAM-Whitelist",
+            "Id": "c1096f89-1516-405d-a94e-02c12ff18092",
+            "Description": "",
+            "LockToken": "f0e5a605-49f6-4e6d-9c3d-24122e75c66f",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/EPAM-Whitelist/c1096f89-1516-405d-a94e-02c12ff18092"
+        },
+        {
+            "Name": "EastLink-HSI-AS11260-ASN",
+            "Id": "232f88ab-2d7d-4442-a180-9bc61a03c902",
+            "Description": "",
+            "LockToken": "51dfe20c-e2e4-4130-b10c-14231e62fd49",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/EastLink-HSI-AS11260-ASN/232f88ab-2d7d-4442-a180-9bc61a03c902"
+        },
+        {
+            "Name": "EssenSys-AS394065-ASN",
+            "Id": "9eded1da-02a2-4bd3-b971-4ce62813c92b",
+            "Description": "",
+            "LockToken": "469ebbf1-650f-4592-b3b8-df5d01b5a073",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/EssenSys-AS394065-ASN/9eded1da-02a2-4bd3-b971-4ce62813c92b"
+        },
+        {
+            "Name": "EstNOC-GLOBAL-206804-ASN",
+            "Id": "81af028e-b1cd-4ee3-9c78-0746cdbcb0e9",
+            "Description": "",
+            "LockToken": "a82ca305-391f-4361-a9fa-17353ea23715",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/EstNOC-GLOBAL-206804-ASN/81af028e-b1cd-4ee3-9c78-0746cdbcb0e9"
+        },
+        {
+            "Name": "Euro-Baddies-From-CS",
+            "Id": "8072dd87-d240-476c-8803-6306e7c89a65",
+            "Description": "Blocked by Clubspark",
+            "LockToken": "bdd580a6-8723-4732-b846-e8cdda89d26b",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Euro-Baddies-From-CS/8072dd87-d240-476c-8803-6306e7c89a65"
+        },
+        {
+            "Name": "Flyservers-SA-48721-IPV4-ASN",
+            "Id": "9fe61b2e-a1ec-4a50-98a0-30cfde26f4b9",
+            "Description": "",
+            "LockToken": "26aca41b-3118-4ff3-9dbc-14df0d88a46f",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Flyservers-SA-48721-IPV4-ASN/9fe61b2e-a1ec-4a50-98a0-30cfde26f4b9"
+        },
+        {
+            "Name": "GOOGLE-CLOUD-PLATFORM-396982-ASN",
+            "Id": "b410f0cb-fb65-4600-bf25-42f26f55e0c1",
+            "Description": "",
+            "LockToken": "7732c1ca-720e-40df-abf0-b3bdb0da79d5",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/GOOGLE-CLOUD-PLATFORM-396982-ASN/b410f0cb-fb65-4600-bf25-42f26f55e0c1"
+        },
+        {
+            "Name": "Geekyworks-IT-Solutions-203999-ASN",
+            "Id": "bcaa1d34-90e9-4e1c-aeab-fd2076ff0363",
+            "Description": "",
+            "LockToken": "b9362f0d-2980-4bd8-a3d9-9a2243f7fb5f",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Geekyworks-IT-Solutions-203999-ASN/bcaa1d34-90e9-4e1c-aeab-fd2076ff0363"
+        },
+        {
+            "Name": "Globalhost-Bosnia-200698-ASN",
+            "Id": "0fe3533a-205c-4d88-9ae7-77b7b4d5794a",
+            "Description": "",
+            "LockToken": "b313e6bd-5f26-4418-b8a0-d694019af7f8",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Globalhost-Bosnia-200698-ASN/0fe3533a-205c-4d88-9ae7-77b7b4d5794a"
+        },
+        {
+            "Name": "Go-Daddy-30083-ASN",
+            "Id": "87103240-8a0f-493f-8ae5-3ada7ce614e7",
+            "Description": "",
+            "LockToken": "105d8bcd-0d26-45d5-8878-183be61414e8",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Go-Daddy-30083-ASN/87103240-8a0f-493f-8ae5-3ada7ce614e7"
+        },
+        {
+            "Name": "Hetzner-Online-ASN",
+            "Id": "ced19af5-97d8-4721-9c30-45567237c447",
+            "Description": "",
+            "LockToken": "6ebbce28-f767-4ad8-bfd4-a90bb0f9b501",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Hetzner-Online-ASN/ced19af5-97d8-4721-9c30-45567237c447"
+        },
+        {
+            "Name": "HostRoyale-Technologies-203020-ASN",
+            "Id": "8b99e450-8644-4046-a16a-df8b627030d8",
+            "Description": "",
+            "LockToken": "5bc96670-2187-4c36-ad13-26e36bf2c37d",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/HostRoyale-Technologies-203020-ASN/8b99e450-8644-4046-a16a-df8b627030d8"
+        },
+        {
+            "Name": "Hostmein-Ike-50520-IPV4-ASN",
+            "Id": "912288d4-bf18-4356-8ddc-7204bbe44c3a",
+            "Description": "",
+            "LockToken": "056143c7-5dc6-4bd2-a9b5-9580f44fb3e8",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Hostmein-Ike-50520-IPV4-ASN/912288d4-bf18-4356-8ddc-7204bbe44c3a"
+        },
+        {
+            "Name": "Intermet-Technology-Advisors-3320-ASN",
+            "Id": "b985fa71-0753-4312-aa3c-f746096405e3",
+            "Description": "",
+            "LockToken": "2437e286-7dad-484c-aaf8-7a627ecc94c1",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Intermet-Technology-Advisors-3320-ASN/b985fa71-0753-4312-aa3c-f746096405e3"
+        },
+        {
+            "Name": "Ipxo-Uk-Limited-61317-IPV4-ASN",
+            "Id": "579098ea-1064-4eb3-a6fc-e746a6cf9fb5",
+            "Description": "",
+            "LockToken": "3b453d25-00a2-49aa-b553-0dac0ab6722c",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Ipxo-Uk-Limited-61317-IPV4-ASN/579098ea-1064-4eb3-a6fc-e746a6cf9fb5"
+        },
+        {
+            "Name": "JSC-Silknet-35805-ASN",
+            "Id": "8d95882b-0f6d-4f8d-8255-cc7e4c5e5abb",
+            "Description": "",
+            "LockToken": "8f7447e1-da65-4874-8a80-4e3c54c65aa5",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/JSC-Silknet-35805-ASN/8d95882b-0f6d-4f8d-8255-cc7e4c5e5abb"
+        },
+        {
+            "Name": "Keminet-SHPK-197706-ASN",
+            "Id": "90c0d330-5aa4-45bc-a3b0-f4d7ff048d84",
+            "Description": "",
+            "LockToken": "89a4f20f-d1b5-48b1-9cc6-a52415176a31",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Keminet-SHPK-197706-ASN/90c0d330-5aa4-45bc-a3b0-f4d7ff048d84"
+        },
+        {
+            "Name": "Latitude-262287-ASN",
+            "Id": "e1493441-41df-4cf0-a201-aef2629b4d4b",
+            "Description": "",
+            "LockToken": "09c3bcef-a283-4d0d-b098-ede7461623ff",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Latitude-262287-ASN/e1493441-41df-4cf0-a201-aef2629b4d4b"
+        },
+        {
+            "Name": "Leaseweb-7203-IP4-ASN",
+            "Id": "d28af9ea-461e-4945-a322-500c964bcc41",
+            "Description": "",
+            "LockToken": "f17efcf0-671c-4051-8940-186e5674491f",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Leaseweb-7203-IP4-ASN/d28af9ea-461e-4945-a322-500c964bcc41"
+        },
+        {
+            "Name": "M247-Ltd-16247-IP4-ASN",
+            "Id": "3f8fff1e-550d-499b-8958-e6452657ebdc",
+            "Description": "",
+            "LockToken": "6ed15d78-59b8-437c-9223-f4c553114245",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/M247-Ltd-16247-IP4-ASN/3f8fff1e-550d-499b-8958-e6452657ebdc"
+        },
+        {
+            "Name": "Master-Route-206070-ASN",
+            "Id": "51ced14d-bdc4-4942-995b-26dc68502c3e",
+            "Description": "",
+            "LockToken": "cef13ed6-88cd-4e0a-9766-634ffce0d4b7",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Master-Route-206070-ASN/51ced14d-bdc4-4942-995b-26dc68502c3e"
+        },
+        {
+            "Name": "NEXEON-ASN-Blacklist",
+            "Id": "ba63d709-cc34-4966-8449-51f34f02295e",
+            "Description": "",
+            "LockToken": "a0482575-5f48-45cf-bb5c-97563fa892ae",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/NEXEON-ASN-Blacklist/ba63d709-cc34-4966-8449-51f34f02295e"
+        },
+        {
+            "Name": "NForce-Entertainment-43350-IPV4-ASN",
+            "Id": "7d2337f6-200a-4e18-9535-803917ed0cee",
+            "Description": "",
+            "LockToken": "147db576-f218-44b9-b3a0-4d4f32e51579",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/NForce-Entertainment-43350-IPV4-ASN/7d2337f6-200a-4e18-9535-803917ed0cee"
+        },
+        {
+            "Name": "NJIX-53856-ASN",
+            "Id": "34bde739-c0f4-47a6-a340-e3bafd55d2a2",
+            "Description": "",
+            "LockToken": "6d1fe749-8d17-4e7d-97ee-8da0b9f42ebf",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/NJIX-53856-ASN/34bde739-c0f4-47a6-a340-e3bafd55d2a2"
+        },
+        {
+            "Name": "Nocix-33387-IP4-ASN",
+            "Id": "d47badf5-1653-4ab9-b418-b8f8fca3be2a",
+            "Description": "",
+            "LockToken": "3ec46da2-0fe4-4ea6-a3a7-f69150f25835",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Nocix-33387-IP4-ASN/d47badf5-1653-4ab9-b418-b8f8fca3be2a"
+        },
+        {
+            "Name": "OPENDNS-36692-ASN",
+            "Id": "69d381d8-59ab-497e-b4f5-2ee66016165a",
+            "Description": "",
+            "LockToken": "a04a8c2d-f37e-48b1-8fa5-a89328022578",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/OPENDNS-36692-ASN/69d381d8-59ab-497e-b4f5-2ee66016165a"
+        },
+        {
+            "Name": "OVH-16276-ASN",
+            "Id": "9a8af2cd-e5f5-4273-a1c8-f5cfb400f582",
+            "Description": "",
+            "LockToken": "cd5d5717-86fd-42c7-8421-7b34dcdb8caf",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/OVH-16276-ASN/9a8af2cd-e5f5-4273-a1c8-f5cfb400f582"
+        },
+        {
+            "Name": "Octopusnet-LTD-44724-IPV4-ASN",
+            "Id": "1f1fea7a-a04f-4eac-bebd-a90642f2766c",
+            "Description": "",
+            "LockToken": "210ff574-4a21-43e9-b6b4-89e4e3e3a9bb",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Octopusnet-LTD-44724-IPV4-ASN/1f1fea7a-a04f-4eac-bebd-a90642f2766c"
+        },
+        {
+            "Name": "Org-OS3-16276-IP4-ASN",
+            "Id": "8d265acb-1ac1-4fb5-ad53-529695795a39",
+            "Description": "",
+            "LockToken": "877aa53e-fa47-4903-92c8-bdf83f48586e",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Org-OS3-16276-IP4-ASN/8d265acb-1ac1-4fb5-ad53-529695795a39"
+        },
+        {
+            "Name": "Oy-Crea-Nova-Hosting-Solution-Ltd-51765-IPV4-ASN",
+            "Id": "ffa89aa7-fb1f-4bb6-8d6e-a1e311fda43f",
+            "Description": "",
+            "LockToken": "ee33efdc-637e-45b5-82b0-cc99462658f8",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Oy-Crea-Nova-Hosting-Solution-Ltd-51765-IPV4-ASN/ffa89aa7-fb1f-4bb6-8d6e-a1e311fda43f"
+        },
+        {
+            "Name": "PAN0001-54538-ASN",
+            "Id": "01525a67-620e-49ad-a374-6d707ed5ea51",
+            "Description": "",
+            "LockToken": "6e0297ae-f28e-45c4-9ced-8b281afc025b",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/PAN0001-54538-ASN/01525a67-620e-49ad-a374-6d707ed5ea51"
+        },
+        {
+            "Name": "PONYNET-53667-ASN",
+            "Id": "a11ec16d-2c90-4b95-8537-a729519458f9",
+            "Description": "",
+            "LockToken": "fb76b8be-af32-4954-91ee-00a94638bd2e",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/PONYNET-53667-ASN/a11ec16d-2c90-4b95-8537-a729519458f9"
+        },
+        {
+            "Name": "PacketHub-ASN",
+            "Id": "5719e8d8-0a10-4e09-a680-ce35ad764b46",
+            "Description": "",
+            "LockToken": "7a91c650-b23b-4cdd-8b9a-172b302a2591",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/PacketHub-ASN/5719e8d8-0a10-4e09-a680-ce35ad764b46"
+        },
+        {
+            "Name": "Private-Layer-AS51852-ASN",
+            "Id": "4b70305e-759e-40cd-8b33-ba67a6ecbdc6",
+            "Description": "",
+            "LockToken": "512dadc0-8b51-4919-bc72-147f63cdc52f",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Private-Layer-AS51852-ASN/4b70305e-759e-40cd-8b33-ba67a6ecbdc6"
+        },
+        {
+            "Name": "Psychz-ASN-IP4",
+            "Id": "432a2d4f-5948-4429-86f3-42bd82001325",
+            "Description": "",
+            "LockToken": "c510fea9-ff8e-46c8-b121-db4badb4fb62",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Psychz-ASN-IP4/432a2d4f-5948-4429-86f3-42bd82001325"
+        },
+        {
+            "Name": "Quadranet-Global-8100-IP4-ASN",
+            "Id": "1ce81454-3123-4c62-b1b6-6e1c4366c345",
+            "Description": "",
+            "LockToken": "ffb36306-bcdc-4014-b0c3-5c04a1978da0",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Quadranet-Global-8100-IP4-ASN/1ce81454-3123-4c62-b1b6-6e1c4366c345"
+        },
+        {
+            "Name": "QuickPacket-46261-IPV4-ASN",
+            "Id": "2657e150-8e82-4397-90ac-a4050260763f",
+            "Description": "",
+            "LockToken": "6040f9ad-1dff-445f-b72b-5ddb8be4e00b",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/QuickPacket-46261-IPV4-ASN/2657e150-8e82-4397-90ac-a4050260763f"
+        },
+        {
+            "Name": "RackDog-AS21136-ASN",
+            "Id": "44db5aed-648d-4f4f-a100-1535def7acc6",
+            "Description": "",
+            "LockToken": "a90963a2-56ca-4ddd-8168-2624f9ca0aed",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/RackDog-AS21136-ASN/44db5aed-648d-4f4f-a100-1535def7acc6"
+        },
+        {
+            "Name": "Rackspace-19994-IP4-ASN",
+            "Id": "72ac8df8-e4d8-4913-a461-3e98679a0f25",
+            "Description": "",
+            "LockToken": "409ba1de-719f-442d-b30e-0f07c55f03eb",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Rackspace-19994-IP4-ASN/72ac8df8-e4d8-4913-a461-3e98679a0f25"
+        },
+        {
+            "Name": "SEMRUSH-209366-ASN",
+            "Id": "c9cf8dad-5eff-4976-aa23-4447233fb597",
+            "Description": "",
+            "LockToken": "4b237512-24fc-4cf1-b167-8094bdc650de",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/SEMRUSH-209366-ASN/c9cf8dad-5eff-4976-aa23-4447233fb597"
+        },
+        {
+            "Name": "SERVERION-213035-ASN",
+            "Id": "9671401c-9c54-4c36-9aa4-0b8050215714",
+            "Description": "",
+            "LockToken": "5a611df9-65c6-4309-a518-0e653aa15054",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/SERVERION-213035-ASN/9671401c-9c54-4c36-9aa4-0b8050215714"
+        },
+        {
+            "Name": "SIA-Singularity-Telecom-207710-ASN",
+            "Id": "6980b4e5-04cb-4009-ab2b-a24837251368",
+            "Description": "",
+            "LockToken": "4ca5f163-b759-41ca-8cf8-7bd9f97b3632",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/SIA-Singularity-Telecom-207710-ASN/6980b4e5-04cb-4009-ab2b-a24837251368"
+        },
+        {
+            "Name": "SOCIEDAD-BUENA-HOSTING-263735-ASN",
+            "Id": "3004c48c-4fa1-4c96-b568-e1c1967aa005",
+            "Description": "",
+            "LockToken": "0a33e18c-5b2e-450a-a941-87af55bbc227",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/SOCIEDAD-BUENA-HOSTING-263735-ASN/3004c48c-4fa1-4c96-b568-e1c1967aa005"
+        },
+        {
+            "Name": "STELLA-PROXIES-399928-ASN",
+            "Id": "4658a658-fabd-4678-9b2f-13003b0f8f11",
+            "Description": "",
+            "LockToken": "1caed1b2-8808-4ad1-ae9c-92b3d80e7401",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/STELLA-PROXIES-399928-ASN/4658a658-fabd-4678-9b2f-13003b0f8f11"
+        },
+        {
+            "Name": "ScalaSports-Whitelist",
+            "Id": "8d733af0-4c0b-4cb3-8ba3-417c20f168af",
+            "Description": "",
+            "LockToken": "406ca0ed-3ef3-4814-b7ad-0da899dbc279",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/ScalaSports-Whitelist/8d733af0-4c0b-4cb3-8ba3-417c20f168af"
+        },
+        {
+            "Name": "Scamalytics-Top-100",
+            "Id": "6355296c-825c-4937-9912-f7e0631478a4",
+            "Description": "",
+            "LockToken": "8953a6c4-f69d-4268-b1b5-69011c8bcc25",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Scamalytics-Top-100/6355296c-825c-4937-9912-f7e0631478a4"
+        },
+        {
+            "Name": "Segna-AS6282-ASN",
+            "Id": "21611312-1721-4ebf-a81f-cb76c6d9b7b0",
+            "Description": "",
+            "LockToken": "64203c66-a134-4172-a4e2-25387e3b6e85",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Segna-AS6282-ASN/21611312-1721-4ebf-a81f-cb76c6d9b7b0"
+        },
+        {
+            "Name": "Server-Mania-55286-IPV4-ASN",
+            "Id": "1fa0e2da-e5ae-4fea-ab57-f7e857ccdf52",
+            "Description": "",
+            "LockToken": "4b4eda47-ee9b-47e4-b3cd-eb9f4a9acda7",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Server-Mania-55286-IPV4-ASN/1fa0e2da-e5ae-4fea-ab57-f7e857ccdf52"
+        },
+        {
+            "Name": "Soluciones-Favorables-263821-ASN",
+            "Id": "a835c185-f4c4-44ee-851c-929a437e7132",
+            "Description": "",
+            "LockToken": "846e4323-020c-447d-8900-d181c2298227",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Soluciones-Favorables-263821-ASN/a835c185-f4c4-44ee-851c-929a437e7132"
+        },
+        {
+            "Name": "SprintLink-AS1239-ASN",
+            "Id": "d35554d4-fb8e-4f77-b025-94f827ceac8b",
+            "Description": "",
+            "LockToken": "cf9f82ad-e5d4-468e-a2f9-ea790e599122",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/SprintLink-AS1239-ASN/d35554d4-fb8e-4f77-b025-94f827ceac8b"
+        },
+        {
+            "Name": "SprintLink-Fake",
+            "Id": "2779b221-ab00-4ef9-8695-e5ca3413ff72",
+            "Description": "",
+            "LockToken": "dbb003c1-66da-4a6e-b8f4-6db65a6d9ae8",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/SprintLink-Fake/2779b221-ab00-4ef9-8695-e5ca3413ff72"
+        },
+        {
+            "Name": "Steadfast-32748-IP4-ASN",
+            "Id": "187edef2-3bbd-492d-b539-b1c8ad7f0333",
+            "Description": "",
+            "LockToken": "1eb28d25-b70e-47e2-a068-ce9ef979e6f6",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Steadfast-32748-IP4-ASN/187edef2-3bbd-492d-b539-b1c8ad7f0333"
+        },
+        {
+            "Name": "Suspicious-Activity-Rate-Limit",
+            "Id": "c81bc701-d9a2-470d-8d81-18c2b1f2823b",
+            "Description": "",
+            "LockToken": "1aabd28a-913a-4469-9c18-50f85a81b46b",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Suspicious-Activity-Rate-Limit/c81bc701-d9a2-470d-8d81-18c2b1f2823b"
+        },
+        {
+            "Name": "TEFINCOM-SA-136787-IPV4-ASN",
+            "Id": "8e417a93-c1fd-4829-8da4-c69c4c51d52b",
+            "Description": "",
+            "LockToken": "45285653-088b-474c-b811-0d7e0e8499f0",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/TEFINCOM-SA-136787-IPV4-ASN/8e417a93-c1fd-4829-8da4-c69c4c51d52b"
+        },
+        {
+            "Name": "Teliko-29037-IP4-ASN",
+            "Id": "46153759-cd00-4a4e-802e-51fb2157f00d",
+            "Description": "",
+            "LockToken": "d07a30cb-49cb-4ca6-842f-916bd77d9cce",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Teliko-29037-IP4-ASN/46153759-cd00-4a4e-802e-51fb2157f00d"
+        },
+        {
+            "Name": "TennisRecord-Blacklist",
+            "Id": "062086bf-bf3e-4b5b-9cc6-09fa3d3c939c",
+            "Description": "",
+            "LockToken": "b0824d24-c160-4b27-9b65-91521d94815b",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/TennisRecord-Blacklist/062086bf-bf3e-4b5b-9cc6-09fa3d3c939c"
+        },
+        {
+            "Name": "Tor-Exit-Nodes",
+            "Id": "4d916dd6-59c3-4f75-9b34-5273d4cfb59e",
+            "Description": "",
+            "LockToken": "605ed8ad-4c15-4ea0-aad7-fa3ad1a79d75",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Tor-Exit-Nodes/4d916dd6-59c3-4f75-9b34-5273d4cfb59e"
+        },
+        {
+            "Name": "UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED-135377-ISV4-ASN",
+            "Id": "8a5a6803-699d-4c61-886e-abc4610492a9",
+            "Description": "",
+            "LockToken": "dd3ab07c-7f2d-4b59-82ca-023c7f060ece",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/UCLOUD-INFORMATION-TECHNOLOGY-HK-LIMITED-135377-ISV4-ASN/8a5a6803-699d-4c61-886e-abc4610492a9"
+        },
+        {
+            "Name": "USTA-VPN-IP-Addresses",
+            "Id": "ff0a5573-2215-4194-ab73-77ee12d32029",
+            "Description": "Public USTA IP Addresses use by VPNs",
+            "LockToken": "d42cb2e1-6ff1-45d7-ac31-5a374a29a366",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/USTA-VPN-IP-Addresses/ff0a5573-2215-4194-ab73-77ee12d32029"
+        },
+        {
+            "Name": "USTA-Whitelist",
+            "Id": "82bebb36-f890-4efa-8c48-cb43a47ee66d",
+            "Description": "",
+            "LockToken": "8fd79afe-b678-4dfd-882b-406ca1b10c91",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/USTA-Whitelist/82bebb36-f890-4efa-8c48-cb43a47ee66d"
+        },
+        {
+            "Name": "UT-AS399587-ASN",
+            "Id": "d728b8cd-67f5-4142-9d17-9b9a2bf20394",
+            "Description": "",
+            "LockToken": "5ad2e374-a961-4564-8bff-7eb316e04805",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/UT-AS399587-ASN/d728b8cd-67f5-4142-9d17-9b9a2bf20394"
+        },
+        {
+            "Name": "VPNet-AS46868-ASN",
+            "Id": "be0aa1c4-6435-484f-a375-938ca4757f46",
+            "Description": "",
+            "LockToken": "ddecf2d3-a89c-467c-9f1d-a016cf362c3e",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/VPNet-AS46868-ASN/be0aa1c4-6435-484f-a375-938ca4757f46"
+        },
+        {
+            "Name": "Voxility-3223-IP4-ASN",
+            "Id": "9942cecb-629f-4363-bdf5-4448e86ac22e",
+            "Description": "",
+            "LockToken": "47c62930-4f52-4fda-ad60-592bc6fdeb70",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/Voxility-3223-IP4-ASN/9942cecb-629f-4363-bdf5-4448e86ac22e"
+        },
+        {
+            "Name": "WHITELABELCOLO393-394474-ASN",
+            "Id": "1a19373e-7bb8-4be5-bc69-4054fb24dc2c",
+            "Description": "",
+            "LockToken": "5b1a2bb7-e4a8-418b-8dd8-04f9b8310f77",
+            "ARN": "arn:aws:wafv2:us-east-1:479806470254:regional/ipset/WHITELABELCOLO393-394474-ASN/1a19373e-7bb8-4be5-bc69-4054fb24dc2c"
+        }
+    ]
+}
