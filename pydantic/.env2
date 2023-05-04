@@ -1,0 +1,3 @@
+my_array='["hi", "how", "are", "you?"]'
+my_object='{"some_key": "some_value", "another_key": ["a", "b", "c"]}'
+nested='{"a": "a", "b": 1}'
