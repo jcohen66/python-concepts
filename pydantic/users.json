@@ -1,0 +1,23 @@
+[
+    {
+        "username": "TestUser",
+        "password": "HelloW0rlD_",
+        "age": "10",
+        "score": "1000",
+        "email": "test@test.com"
+    },
+    {
+        "username": "NeuralNine",
+        "password": "myP455w0rd{}",
+        "age": "23",
+        "score": "10000",
+        "email": "mail@test.com"
+    },
+    {
+        "username": "User123",
+        "password": "custom{}P4ssword",
+        "age": "10",
+        "score": "1000",
+        "email": "test2@test.com"
+    }
+]
