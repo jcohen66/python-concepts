@@ -1,0 +1,15 @@
+cache (decorator)
+cached_property
+cmp_to_key
+get_cache_token
+lrw_cache
+namedtuple
+partial
+partialmethod
+recursive_repr
+reduce
+singledispatch
+singledispatchmethod
+total_ordering
+update_wrapper
+wraps (decorator)
