@@ -1,7 +1,7 @@
 import requests
 
 # Replace the URL with your server's endpoint
-webhook_url = 'http://localhost:8000'
+webhook_url = 'http://localhost:8010'
 
 # Define the payload to send to the webhook
 payload = {'message': 'Hello from webhook provider!'}

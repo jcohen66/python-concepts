@@ -58,7 +58,8 @@ PAGES = [
     ("VIRGINIA", "3380"),
     ("WASHINGTON", "3354"),
     ("WEST VIRGINIA", "3361"),
-    ("WISCONSIN", "3385")
+    ("WISCONSIN", "3385"),
+    ("WYOMING", "3381")
 ]
 
 def parse_state(page_num):
